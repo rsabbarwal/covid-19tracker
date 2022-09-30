@@ -4,6 +4,3 @@
 - Covid-19 statistics fetched from https://disease.sh
 - Used Material-ui for styling.
 
-### Snapshot
-
-<img src="Covid-19 Tracker.png" width="600" />
